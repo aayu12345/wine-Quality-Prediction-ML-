@@ -23,6 +23,7 @@ LIST_OF_FILES=[
     "app.py",
     "requirements.txt",
     "setup.py",
+    "pyproject.toml",
     "research/trial.ipynb",
     "templates/index.html",
 ]
